@@ -26,3 +26,5 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 ```
 
 Project sample avaliable here: [https://github.com/mbritten/sample-auth0-springboot](https://github.com/mbritten/sample-auth0-springboot)
+
+UPDATE: The Auth0 team documented this all better than me. Here is their repo I recommend you start with: [https://github.com/auth0-samples/auth0-springboot-api](https://github.com/auth0-samples/auth0-springboot-api)
